@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "Memur",
+    "Name": "Neset Ertas",
+    "Title": "Turkucu",
+    "CalismaSaati": 160,
+    "SaatlikUcret": 50
+  },
+  {
+    "Type": "Yonetici",
+    "Name": "Muazzez Ersoy",
+    "Title": "Turk sanat musikisi",
+    "CalismaSaati": 180,
+    "SaatlikUcret": 100,
+    "Bonus": 5000
+  },
+  {
+    "Type": "Yonetici",
+    "Name": "Ferdi Tayfur",
+    "Title": "Arabesk",
+    "CalismaSaati": 110,
+    "SaatlikUcret": 70,
+    "Bonus": 13000
+  }
+]
